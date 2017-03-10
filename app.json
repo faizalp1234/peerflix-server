@@ -1,0 +1,7 @@
+{
+  "name": "Peerflix-Server",
+  "description": "Streaming torrent client for node.js with web ui.",
+  "repository": "https://github.com/asapach/peerflix-server",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static", "webtorrent", "cloud"],
+}
